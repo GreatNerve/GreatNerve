@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 👨‍💻 All of my projects are available at [greatnerve.com](greatnerve.com)
+- 👨‍💻 All of my projects are available at [greatnerve.com](https://greatnerve.com)
 
 - 💬 Ask me about **React, Next JS, MERN Stack and Python**
 
