@@ -20,8 +20,11 @@
 <a href="https://www.leetcode.com/greatnerve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="greatnerve" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=greatnerve&show_icons=true&locale=en&layout=compact&hide=html" alt="greatnerve" /></p>
-
+<p>
+  <img align="left"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=greatnerve&show_icons=true&locale=en&layout=compact&hide=html,css"
+       alt="greatnerve" />
+</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=greatnerve&show_icons=true&locale=en" alt="greatnerve" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=greatnerve&" alt="greatnerve" /></p>
