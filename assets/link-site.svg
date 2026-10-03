@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="151" height="32" viewBox="0 0 151 32" role="img" aria-labelledby="title">
+  <title id="title">Website: greatnerve.com</title>
+  <rect x="0.5" y="0.5" width="150" height="31" rx="8" fill="#0d1117" stroke="#30363d"/>
+  <svg x="12" y="8" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#58a6ff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M3 12a9 9 0 1 0 18 0a9 9 0 0 0 -18 0"/>
+    <path d="M3.6 9h16.8"/>
+    <path d="M3.6 15h16.8"/>
+    <path d="M11.5 3a17 17 0 0 0 0 18"/>
+    <path d="M12.5 3a17 17 0 0 1 0 18"/>
+  </svg>
+  <text x="36" y="20.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#e6edf3" textLength="100.8" lengthAdjust="spacing">greatnerve.com</text>
+</svg>
