@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="310" viewBox="0 0 1000 310" role="img" aria-labelledby="title desc">
   <title id="title">Dheeraj Sharma</title>
-  <desc id="desc">I make things. Sometimes they work, sometimes they don&#8217;t. I keep going anyway, hoping it adds up to something. Digging through the haystack &#8212; bugs, builds, and burnouts. Tinkering with electronics and 3D printing. Building software and hardware from scratch.</desc>
+  <desc id="desc">I make things. Sometimes they work, sometimes they don&#8217;t. I keep going anyway, hoping it adds up to something. Digging through the haystack &#8212; bugs, builds, and burnouts. Tinkering with electronics and 3D printing. Turning side projects into working hardware and code.</desc>
 
   <style>
     .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
@@ -11,7 +11,7 @@
     .l3 { animation-delay: 12s; }
     .l1 .reveal, .l1 .caret { animation: type1 18s steps(58, end) infinite; }
     .l2 .reveal, .l2 .caret { animation: type2 18s steps(43, end) 6s infinite; }
-    .l3 .reveal, .l3 .caret { animation: type3 18s steps(44, end) 12s infinite; }
+    .l3 .reveal, .l3 .caret { animation: type3 18s steps(53, end) 12s infinite; }
     .caret rect { animation: blink 1s steps(1, end) infinite; }
     .pulse { animation: flow 3.2s linear infinite; }
     .halo { opacity: 0; transform-box: fill-box; transform-origin: center; animation: halo 3.2s ease-out infinite; }
@@ -32,8 +32,8 @@
     }
     @keyframes type3 {
       0% { transform: translateX(0); }
-      11% { transform: translateX(470.3px); }
-      100% { transform: translateX(470.3px); }
+      14% { transform: translateX(566.6px); }
+      100% { transform: translateX(566.6px); }
     }
     @keyframes blink {
       0% { opacity: 1; }
@@ -78,7 +78,7 @@
   </g>
   <g class="line l3">
     <defs><clipPath id="c3"><rect class="reveal" x="-560" y="236" width="640" height="36"/></clipPath></defs>
-    <text class="mono" x="80" y="260" font-size="18" fill="#e6edf3" textLength="470.3" lengthAdjust="spacing" clip-path="url(#c3)">Building software and hardware from scratch.</text>
+    <text class="mono" x="80" y="260" font-size="18" fill="#e6edf3" textLength="566.6" lengthAdjust="spacing" clip-path="url(#c3)">Turning side projects into working hardware and code.</text>
     <g class="caret"><rect x="81" y="244" width="9" height="21" fill="#58a6ff"/></g>
   </g>
 
