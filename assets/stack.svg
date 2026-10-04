@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="282" viewBox="0 0 1000 282" role="img" aria-labelledby="title">
   <title id="title">Python, Java, TypeScript, JavaScript, FastAPI, Spring Boot, Express, Node.js, React, Next.js, Angular, Tailwind, PostgreSQL, MongoDB, Prisma, Docker</title>
-  <rect x="0.5" y="0.5" width="999" height="281" rx="14" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="999" height="281" rx="14" fill="#0d1117" stroke="#30363d"/>
   <path d="M500 30 V266" stroke="#30363d"/>
   <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">
   <text x="64" y="40" fill="#7d8590" font-size="12">languages</text>
